@@ -33,8 +33,6 @@ This project is a simple, static front-end website. To get it running locally, f
 
 ## 🖼️ Screenshots
 
-_Add some screenshots or GIFs of your website here to visually showcase the design and functionality._
-
 ![Website Landing Page](https://via.placeholder.com/800x500.png?text=Landing+Page+Screenshot)
 ![Destination Page](https://via.placeholder.com/800x500.png?text=Destination+Page+Screenshot)
 
